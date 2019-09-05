@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Canidae</string>
+	<string>Felidae</string>
+	<string>Cat</string>
+	<string>Cattle</string>
+	<string>Dog</string>
+	<string>Donkey</string>
+	<string>Goat</string>
+	<string>Guinea pig</string>
+	<string>Horse</string>
+	<string>Pig</string>
+	<string>Rabbit</string>
+	<string>Fancy rat varieties</string>
+	<string>laboratory rat strains</string>
+	<string>Sheep breeds</string>
+	<string>Water buffalo breeds</string>
+	<string>Chicken breeds</string>
+	<string>Duck breeds</string>
+	<string>Goose breeds</string>
+	<string>Pigeon breeds</string>
+	<string>Turkey breeds</string>
+	<string>Aardvark</string>
+	<string>Aardwolf</string>
+	<string>African buffalo</string>
+	<string>African elephant</string>
+	<string>African leopard</string>
+	<string>Albatross</string>
+	<string>Alligator</string>
+	<string>Alpaca</string>
+	<string>American buffalo (bison)</string>
+	<string>American robin</string>
+	<string>Amphibian</string>
+	<string>Anaconda</string>
+	<string>Angelfish</string>
+	<string>Anglerfish</string>
+	<string>Ant</string>
+	<string>Anteater</string>
+	<string>Antelope</string>
+	<string>Antlion</string>
+	<string>Ape</string>
+	<string>Aphid</string>
+	<string>Arabian leopard</string>
+	<string>Arctic Fox</string>
+	<string>Arctic Wolf</string>
+	<string>Armadillo</string>
+	<string>Arrow crab</string>
+	<string>Asp</string>
+	<string>Ass (donkey)</string>
+	<string>Baboon</string>
+	<string>Badger</string>
+	<string>Bald eagle</string>
+	<string>Bandicoot</string>
+	<string>Barnacle</string>
+	<string>Barracuda</string>
+	<string>Basilisk</string>
+	<string>Bass</string>
+	<string>Bat</string>
+	<string>Beaked whale</string>
+	<string>Bear</string>
+	<string>Beaver</string>
+	<string>Bedbug</string>
+	<string>Bee</string>
+	<string>Beetle</string>
+	<string>Bird</string>
+	<string>Bison</string>
+	<string>Blackbird</string>
+	<string>Black panther</string>
+	<string>Black widow spider</string>
+	<string>Blue bird</string>
+	<string>Blue jay</string>
+	<string>Blue whale</string>
+	<string>Boa</string>
+	<string>Boar</string>
+	<string>Bobcat</string>
+	<string>Bobolink</string>
+	<string>Bonobo</string>
+	<string>Booby</string>
+	<string>Box jellyfish</string>
+	<string>Bovid</string>
+	<string>Buffalo, African</string>
+	<string>Buffalo, American (bison)</string>
+	<string>Bug</string>
+	<string>Butterfly</string>
+	<string>Buzzard</string>
+	<string>Camel</string>
+	<string>Canid</string>
+	<string>Cape buffalo</string>
+	<string>Capybara</string>
+	<string>Cardinal</string>
+	<string>Caribou</string>
+	<string>Carp</string>
+	<string>Cat</string>
+	<string>Catshark</string>
+	<string>Caterpillar</string>
+	<string>Catfish</string>
+	<string>Cattle</string>
+	<string>Centipede</string>
+	<string>Cephalopod</string>
+	<string>Chameleon</string>
+	<string>Cheetah</string>
+	<string>Chickadee</string>
+	<string>Chicken</string>
+	<string>Chimpanzee</string>
+	<string>Chinchilla</string>
+	<string>Chipmunk</string>
+	<string>Clam</string>
+	<string>Clownfish</string>
+	<string>Cobra</string>
+	<string>Cockroach</string>
+	<string>Cod</string>
+	<string>Condor</string>
+	<string>Constrictor</string>
+	<string>Coral</string>
+	<string>Cougar</string>
+	<string>Cow</string>
+	<string>Coyote</string>
+	<string>Crab</string>
+	<string>Crane</string>
+	<string>Crane fly</string>
+	<string>Crawdad</string>
+	<string>Crayfish</string>
+	<string>Cricket</string>
+	<string>Crocodile</string>
+	<string>Crow</string>
+	<string>Cuckoo</string>
+	<string>Cicada</string>
+	<string>Damselfly</string>
+	<string>Deer</string>
+	<string>Dingo</string>
+	<string>Dinosaur</string>
+	<string>Dog</string>
+	<string>Dolphin</string>
+	<string>Donkey</string>
+	<string>Dormouse</string>
+	<string>Dove</string>
+	<string>Dragonfly</string>
+	<string>Dragon</string>
+	<string>Duck</string>
+	<string>Dung beetle</string>
+	<string>Eagle</string>
+	<string>Earthworm</string>
+	<string>Earwig</string>
+	<string>Echidna</string>
+	<string>Eel</string>
+	<string>Egret</string>
+	<string>Elephant</string>
+	<string>Elephant seal</string>
+	<string>Elk</string>
+	<string>Emu</string>
+	<string>English pointer</string>
+	<string>Ermine</string>
+	<string>Falcon</string>
+	<string>Ferret</string>
+	<string>Finch</string>
+	<string>Firefly</string>
+	<string>Fish</string>
+	<string>Flamingo</string>
+	<string>Flea</string>
+	<string>Fly</string>
+	<string>Flyingfish</string>
+	<string>Fowl</string>
+	<string>Fox</string>
+	<string>Frog</string>
+	<string>Fruit bat</string>
+	<string>Gamefowl</string>
+	<string>Galliform</string>
+	<string>Gazelle</string>
+	<string>Gecko</string>
+	<string>Gerbil</string>
+	<string>Giant panda</string>
+	<string>Giant squid</string>
+	<string>Gibbon</string>
+	<string>Gila monster</string>
+	<string>Giraffe</string>
+	<string>Goat</string>
+	<string>Goldfish</string>
+	<string>Goose</string>
+	<string>Gopher</string>
+	<string>Gorilla</string>
+	<string>Grasshopper</string>
+	<string>Great blue heron</string>
+	<string>Great white shark</string>
+	<string>Grizzly bear</string>
+	<string>Ground shark</string>
+	<string>Ground sloth</string>
+	<string>Grouse</string>
+	<string>Guan</string>
+	<string>Guanaco</string>
+	<string>Guineafowl</string>
+	<string>Guinea pig</string>
+	<string>Gull</string>
+	<string>Guppy</string>
+	<string>Haddock</string>
+	<string>Halibut</string>
+	<string>Hammerhead shark</string>
+	<string>Hamster</string>
+	<string>Hare</string>
+	<string>Harrier</string>
+	<string>Hawk</string>
+	<string>Hedgehog</string>
+	<string>Hermit crab</string>
+	<string>Heron</string>
+	<string>Herring</string>
+	<string>Hippopotamus</string>
+	<string>Hookworm</string>
+	<string>Hornet</string>
+	<string>Horse</string>
+	<string>Hoverfly</string>
+	<string>Hummingbird</string>
+	<string>Humpback whale</string>
+	<string>Hyena</string>
+	<string>Iguana</string>
+	<string>Impala</string>
+	<string>Irukandji jellyfish</string>
+	<string>Jackal</string>
+	<string>Jaguar</string>
+	<string>Jay</string>
+	<string>Jellyfish</string>
+	<string>Junglefowl</string>
+	<string>Kangaroo</string>
+	<string>Kangaroo mouse</string>
+	<string>Kangaroo rat</string>
+	<string>Kingfisher</string>
+	<string>Kite</string>
+	<string>Kiwi</string>
+	<string>Koala</string>
+	<string>Koi</string>
+	<string>Komodo dragon</string>
+	<string>Krill</string>
+	<string>Ladybug</string>
+	<string>Lamprey</string>
+	<string>Landfowl</string>
+	<string>Land snail</string>
+	<string>Lark</string>
+	<string>Leech</string>
+	<string>Lemming</string>
+	<string>Lemur</string>
+	<string>Leopard</string>
+	<string>Leopon</string>
+	<string>Limpet</string>
+	<string>Lion</string>
+	<string>Lizard</string>
+	<string>Llama</string>
+	<string>Lobster</string>
+	<string>Locust</string>
+	<string>Loon</string>
+	<string>Louse</string>
+	<string>Lungfish</string>
+	<string>Lynx</string>
+	<string>Macaw</string>
+	<string>Mackerel</string>
+	<string>Magpie</string>
+	<string>Mammal</string>
+	<string>Manatee</string>
+	<string>Mandrill</string>
+	<string>Manta ray</string>
+	<string>Marlin</string>
+	<string>Marmoset</string>
+	<string>Marmot</string>
+	<string>Marsupial</string>
+	<string>Marten</string>
+	<string>Mastodon</string>
+	<string>Meadowlark</string>
+	<string>Meerkat</string>
+	<string>Mink</string>
+	<string>Minnow</string>
+	<string>Mite</string>
+	<string>Mockingbird</string>
+	<string>Mole</string>
+	<string>Mollusk</string>
+	<string>Mongoose</string>
+	<string>Monitor lizard</string>
+	<string>Monkey</string>
+	<string>Moose</string>
+	<string>Mosquito</string>
+	<string>Moth</string>
+	<string>Mountain goat</string>
+	<string>Mouse</string>
+	<string>Mule</string>
+	<string>Muskox</string>
+	<string>Narwhal</string>
+	<string>Newt</string>
+	<string>New World quail</string>
+	<string>Nightingale</string>
+	<string>Ocelot</string>
+	<string>Octopus</string>
+	<string>Old World quail</string>
+	<string>Opossum</string>
+	<string>Orangutan</string>
+	<string>Orca</string>
+	<string>Ostrich</string>
+	<string>Otter</string>
+	<string>Owl</string>
+	<string>Ox</string>
+	<string>Panda</string>
+	<string>Panther</string>
+	<string>Panthera hybrid</string>
+	<string>Parakeet</string>
+	<string>Parrot</string>
+	<string>Parrotfish</string>
+	<string>Partridge</string>
+	<string>Peacock</string>
+	<string>Peafowl</string>
+	<string>Pelican</string>
+	<string>Penguin</string>
+	<string>Perch</string>
+	<string>Peregrine falcon</string>
+	<string>Pheasant</string>
+	<string>Pig</string>
+	<string>Pigeon</string>
+	<string>Pike</string>
+	<string>Pilot whale</string>
+	<string>Pinniped</string>
+	<string>Piranha</string>
+	<string>Planarian</string>
+	<string>Platypus</string>
+	<string>Polar bear</string>
+	<string>Pony</string>
+	<string>Porcupine</string>
+	<string>Porpoise</string>
+	<string>Portuguese man o&apos; war</string>
+	<string>Possum</string>
+	<string>Prairie dog</string>
+	<string>Prawn</string>
+	<string>Praying mantis</string>
+	<string>Primate</string>
+	<string>Ptarmigan</string>
+	<string>Puffin</string>
+	<string>Puma</string>
+	<string>Python</string>
+	<string>Quail</string>
+	<string>Quelea</string>
+	<string>Quokka</string>
+	<string>Rabbit</string>
+	<string>Raccoon</string>
+	<string>Rainbow trout</string>
+	<string>Rat</string>
+	<string>Rattlesnake</string>
+	<string>Raven</string>
+	<string>Ray (Batoidea)</string>
+	<string>Ray (Rajiformes)</string>
+	<string>Red panda</string>
+	<string>Reindeer</string>
+	<string>Reptile</string>
+	<string>Rhinoceros</string>
+	<string>Right whale</string>
+	<string>Roadrunner</string>
+	<string>Rodent</string>
+	<string>Rook</string>
+	<string>Rooster</string>
+	<string>Roundworm</string>
+	<string>Saber-toothed cat</string>
+	<string>Sailfish</string>
+	<string>Salamander</string>
+	<string>Salmon</string>
+	<string>Sawfish</string>
+	<string>Scale insect</string>
+	<string>Scallop</string>
+	<string>Scorpion</string>
+	<string>Seahorse</string>
+	<string>Sea lion</string>
+	<string>Sea slug</string>
+	<string>Sea snail</string>
+	<string>Shark</string>
+	<string>Sheep</string>
+	<string>Shrew</string>
+	<string>Shrimp</string>
+	<string>Silkworm</string>
+	<string>Silverfish</string>
+	<string>Skink</string>
+	<string>Skunk</string>
+	<string>Sloth</string>
+	<string>Slug</string>
+	<string>Smelt</string>
+	<string>Snail</string>
+	<string>Snake</string>
+	<string>Snipe</string>
+	<string>Snow leopard</string>
+	<string>Sockeye salmon</string>
+	<string>Sole</string>
+	<string>Sparrow</string>
+	<string>Sperm whale</string>
+	<string>Spider</string>
+	<string>Spider monkey</string>
+	<string>Spoonbill</string>
+	<string>Squid</string>
+	<string>Squirrel</string>
+	<string>Starfish</string>
+	<string>Star-nosed mole</string>
+	<string>Steelhead trout</string>
+	<string>Stingray</string>
+	<string>Stoat</string>
+	<string>Stork</string>
+	<string>Sturgeon</string>
+	<string>Sugar glider</string>
+	<string>Swallow</string>
+	<string>Swan</string>
+	<string>Swift</string>
+	<string>Swordfish</string>
+	<string>Swordtail</string>
+	<string>Tahr</string>
+	<string>Takin</string>
+	<string>Tapir</string>
+	<string>Tarantula</string>
+	<string>Tarsier</string>
+	<string>Tasmanian devil</string>
+	<string>Termite</string>
+	<string>Tern</string>
+	<string>Thrush</string>
+	<string>Tick</string>
+	<string>Tiger</string>
+	<string>Tiger shark</string>
+	<string>Tiglon</string>
+	<string>Toad</string>
+	<string>Tortoise</string>
+	<string>Toucan</string>
+	<string>Trapdoor spider</string>
+	<string>Tree frog</string>
+	<string>Trout</string>
+	<string>Tuna</string>
+	<string>Turkey</string>
+	<string>Turtle</string>
+	<string>Tyrannosaurus</string>
+	<string>Urial</string>
+	<string>Vampire bat</string>
+	<string>Vampire squid</string>
+	<string>Vicuna</string>
+	<string>Viper</string>
+	<string>Vole</string>
+	<string>Vulture</string>
+	<string>Wallaby</string>
+	<string>Walrus</string>
+	<string>Wasp</string>
+	<string>Warbler</string>
+	<string>Water Boa</string>
+	<string>Water buffalo</string>
+	<string>Weasel</string>
+	<string>Whale</string>
+	<string>Whippet</string>
+	<string>Whitefish</string>
+	<string>Whooping crane</string>
+	<string>Wildcat</string>
+	<string>Wildebeest</string>
+	<string>Wildfowl</string>
+	<string>Wolf</string>
+	<string>Wolverine</string>
+	<string>Wombat</string>
+	<string>Woodpecker</string>
+	<string>Worm</string>
+	<string>Wren</string>
+	<string>Xerinae</string>
+	<string>X-ray fish</string>
+	<string>Yak</string>
+	<string>Yellow perch</string>
+	<string>Zebra</string>
+	<string>Zebra finch</string>
+	<string>Animals by number of neurons</string>
+	<string>Animals by size</string>
+	<string>Common household pests</string>
+	<string>Common names of poisonous animals</string>
+	<string>Alpaca</string>
+	<string>Bali cattle</string>
+	<string>Cat</string>
+	<string>Cattle</string>
+	<string>Chicken</string>
+	<string>Dog</string>
+	<string>Domestic Bactrian camel</string>
+	<string>Domestic canary</string>
+	<string>Domestic dromedary camel</string>
+	<string>Domestic duck</string>
+	<string>Domestic goat</string>
+	<string>Domestic goose</string>
+	<string>Domestic guineafowl</string>
+	<string>Domestic hedgehog</string>
+	<string>Domestic pig</string>
+	<string>Domestic pigeon</string>
+	<string>Domestic rabbit</string>
+	<string>Domestic silkmoth</string>
+	<string>Domestic silver fox</string>
+	<string>Domestic turkey</string>
+	<string>Donkey</string>
+	<string>Fancy mouse</string>
+	<string>Fancy rat</string>
+	<string>Lab rat</string>
+	<string>Ferret</string>
+	<string>Gayal</string>
+	<string>Goldfish</string>
+	<string>Guinea pig</string>
+	<string>Guppy</string>
+	<string>Horse</string>
+	<string>Koi</string>
+	<string>Llama</string>
+	<string>Ringneck dove</string>
+	<string>Sheep</string>
+	<string>Siamese fighting fish</string>
+	<string>Society finch</string>
+	<string>Yak</string>
+	<string>Water buffalo</string>
+</array>
+</plist>
